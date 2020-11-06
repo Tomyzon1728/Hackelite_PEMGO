@@ -1,5 +1,5 @@
 # Hackelite_PEMGO
-This is a project based on a student email generating issues
+This is a project based on a student email clash generating issues
 observed wrecking havoc for student in Ladoke Akintola University
 of Technology.
 
